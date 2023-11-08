@@ -1,5 +1,5 @@
 # Project Name
-Lending Data Case Study
+## Lending Data Case Study
 
 This project involves a comprehensive analysis of loan data from a consumer finance company, with a focus on understanding the factors that influence the likelihood of loan defaults. By identifying high-risk loan applicants, the goal is to help the lending company make informed decisions to reduce credit loss and financial risks.
 
